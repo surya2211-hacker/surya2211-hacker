@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Hi, This is Surya Manohar<br>I'm an Electronics & Communication Engineering student at IIIT Nagpur, passionate about building hardware that matters—from FPGA-powered signal processors to RF energy-harvesting IoT systems. My work blends Verilog-based digital design, embedded systems, and low-power wireless communication for real-world applications like smart agriculture and assistive technology.<br>I enjoy creating solutions that sit at the edge of innovation and utility—Let's connect if you're into silicon, sensors, or signal processing!<br><br>🔭 I’m currently working on<br>An RF Energy Harvesting and LoRaWAN Communication System for smart agriculture, which enables remote sensor monitoring over 10 km using harvested energy.<br><br>Several FPGA-based systems using Verilog including an audio equalizer and assistive control interface for quadriplegic patients.<br><br>🌱 I’m currently learning<br>Advanced FPGA design techniques (timing closure, signal stability optimization), VHDL and MATLAB.<br><br>Real-time embedded systems and low-power communication protocols.<br><br>👯 I’m looking to collaborate on<br>FPGA/Verilog based hardware design and internships in VLSI domain..<br><br>Embedded systems involving IoT, sensor interfacing, or RF communication.<br><br>🤔 I’m looking for help with<br>Seeking Internships in Semiconductor Domain and some hardware related projects..<br><br>Improving my knowledge about semiconductors and working with them, most importantly to pursue a career in VLSI domain..<br><br>💬 Ask me about<br>Verilog/SystemVerilog, MATLAB, LoRaWAN, C/C++, Arduino, ESP32,FPGA development (Vivado, BASYS3/Nexys A7).<br><br>Sensor-based embedded systems and signal processing on FPGAs.<br><br>📫 How to reach me<br>Email: suryamanohar2211@gmail.com<br>LinkedIn: linkedin.com/in/surya-manohar<br>GitHub: github.com/surya2211-hacker<br><br>⚡ Fun fact<br>I treat Vivado like others treat video games—I build, debug, simulate, and celebrate when it compiles without errors.
 
-<!--
-**surya2211-hacker/surya2211-hacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@suryaa.exe_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/surya-manohar) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/suryamanohar2211) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/surya_manohar2211) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@2211surya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suryamanohar2211@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=surya2211-hacker&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=surya2211-hacker&theme=github_dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=surya2211-hacker&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=surya2211-hacker&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
