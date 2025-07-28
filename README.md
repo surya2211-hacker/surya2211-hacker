@@ -12,6 +12,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=surya2211-hacker&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=surya2211-hacker&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=surya2211-hacker&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=surya2211-hacker&icon=0&color=0)](https://visitcount.itsvg.in)
 
